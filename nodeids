@@ -1,0 +1,9 @@
+[
+  "tests/test_pmb.py::test_approve_generate_nim_sequential",
+  "tests/test_pmb.py::test_approve_idempotent",
+  "tests/test_pmb.py::test_approve_invalid_id",
+  "tests/test_pmb.py::test_invalid_phone_format",
+  "tests/test_pmb.py::test_register_duplicate_email",
+  "tests/test_pmb.py::test_register_success",
+  "tests/test_pmb.py::test_status_and_stats_endpoint"
+]
